@@ -1,0 +1,5 @@
+E:/Program Files/share/OpenGL/cmake/OpenGLConfig.cmake
+E:\Program Files\OpenGL/include/GLFW/glfw3.h
+E:\Program Files\OpenGL/include/GLFW/glfw3native.h
+E:\Program Files\OpenGL/lib/glfw3.lib
+E:\Program Files\OpenGL/lib/glfw3dll.lib

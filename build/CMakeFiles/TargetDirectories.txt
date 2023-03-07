@@ -1,0 +1,3 @@
+C:/Users/95178/Desktop/opengl_install/build/CMakeFiles/INSTALL.dir
+C:/Users/95178/Desktop/opengl_install/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/95178/Desktop/opengl_install/build/CMakeFiles/ZERO_CHECK.dir
