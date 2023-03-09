@@ -1,0 +1,7 @@
+set(GLFW_INCLUDE_DIRS    "@GLFW_include_dirs@")  
+set(GLFW_LINK_DIRS       "@GLFW_link_dirs@"   )
+
+# include paths
+include_directories(${GLFW_INCLUDE_DIRS})
+link_directories(${GLFW_LINK_DIRS})
+message("--[GLFW]: Package found! Include ${GLFW_INCLUDE_DIRS} and ${GLFW_LINK_DIRS}" )
